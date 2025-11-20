@@ -175,8 +175,7 @@ Download complete emotion history for further analysis.
 🧑‍💻 Author
 
 Vaishnavi Newalkar
-ECE – IoT | IIIT Nagpur
-AI/ML • Computer Vision • Intelligent Systems
+
 
 📜 License
 
