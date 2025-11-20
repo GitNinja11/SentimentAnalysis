@@ -1,0 +1,6 @@
+streamlit
+opencv-python-headless
+deepface
+tensorflow==2.12.0
+numpy
+pillow
