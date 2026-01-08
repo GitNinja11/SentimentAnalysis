@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-streamlit
-opencv-python-headless
-deepface
-tensorflow==2.12.0
-numpy
-pillow
-=======
 streamlit
 opencv-python-headless
 deepface
@@ -17,4 +9,3 @@ requests
 matplotlib
 plotly
 ipykernel
->>>>>>> 18bb89b (Intital commit)
